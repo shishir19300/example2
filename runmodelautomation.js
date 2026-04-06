@@ -46,3 +46,6 @@ async function startAutoLabelFast(frames = 10) {
         await sleep(800); 
     }
 }
+
+
+<html>html is html</html>
